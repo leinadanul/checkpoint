@@ -1,1 +1,3 @@
 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
+Modificando este archivo por los errores cometidos en los cambios relizados
+se debe hacer un pull cuando sale el error por modificación de un mismo archivo, importante no olvidar.
