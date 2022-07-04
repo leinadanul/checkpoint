@@ -2,3 +2,7 @@ maquina virtual dañada pero reunido con los compas
 
 Jorge token: 
 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
+
+al realizar un push por la rama main, aparece la modificación hecha por Daniel, pero ojo
+el no pusheo desde la rama, por el mensaje de error, por ello, no se subieron
+los cambios que el estaba realizando. En este archivo aparecen las modificaciones hechas por mí, pero no lo realizado en el archivo pusheado desde la main.
